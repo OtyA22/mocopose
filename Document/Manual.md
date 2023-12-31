@@ -128,10 +128,10 @@ mocopose で出力したポーズ JSON から AnimationClip を作ることが�
 - 透過画像の出力を有効にすることで、デフォルトで出力される、背景＋アバターの画像のほか、アバターのみを透過した画像も加えて出力できます
 <br/><br/>
 - ポーズ JSON の出力を有効にすることで、ポーズに関する JSON データを出力できます
-    - 保存場所：`C:\Users\{username}\Pictures\mocopose\JsonData` 
+    - 保存場所：`{mocopose.exe があるディレクトリへのパス}\mocopose\JsonData` 
 <br/><br/>
 - 「開く」ボタンを押すことで、出力した画像を保存する場所をエクスプローラーで開きます 
-    - 保存場所：`C:\Users\{username}\Pictures\mocopose\Screenshots`
+    - 保存場所：`{mocopose.exe があるディレクトリへのパス}\mocopose\Screenshots`
 <br/><br/>
 - 「戻る」ボタンを押すことで、アバター選択画面に移動します
 <br/><br/>
