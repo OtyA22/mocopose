@@ -166,7 +166,8 @@ mocopose で出力したポーズ JSON から AnimationClip を作ることが�
 
 ### 3-b. 表情編集画面
 
-<img src="Image/screenshot-expression.png" width="640">
+<img src="Image/screenshot-expression-1.png" width="640">
+<img src="Image/screenshot-expression-2.png" width="640">
 
 - 各表情の設定値をスライダーで変更できます
    - スライダ―の右にあるボタンで設定値を初期化できます
