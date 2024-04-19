@@ -1,5 +1,5 @@
 # mocopose (もこポーズ) マニュアル
-アプリバージョン：0.6
+アプリバージョン：0.7
 
 
 ## mocopose とは？
@@ -121,6 +121,9 @@ mocopose で出力したポーズ JSON から AnimationClip を作ることが�
 - 「ポーズ」ボタンを押すことで、[ポーズ編集画面](#3-c-ポーズ編集画面)を開きます
    - 背景部分を押すことで、元の画面に戻れます
 <br/><br/>
+- 「画像処理」ボタンを押すことで、[画像処理画面](#3-d-画像処理画面)を開きます
+   - 背景部分を押すことで、元の画面に戻れます
+<br/><br/>
 - 「初期位置」ボタンを押すことで、カメラの位置及びアバターの大きさを初期状態に戻します
    - さらにアバターの腰を基準として、カメラを正面に移動させます
 <br/><br/>
@@ -184,6 +187,20 @@ mocopose で出力したポーズ JSON から AnimationClip を作ることが�
 <br/><br/>
 
 
+### 3-d. 画像処理画面
+
+<img src="Image/screenshot-image-processing-light.png" width="640">
+<img src="Image/screenshot-image-processing-outline.png" width="640">
+<img src="Image/screenshot-image-processing-mtoon-outline.png" width="640">
+
+- ライトの強度と色を変更できます
+<br/><br/>
+- アバターのアウトラインの表示の有無、幅、色を変更できます
+<br/><br/>
+- アバターの MToon に関するアウトラインについて、表示の有無を変更できます
+<br/><br/>
+
+
 ## 4. プレビュー画面
 
 <img src="Image/screenshot-preview.png" width="640">
@@ -203,6 +220,8 @@ mocopose で出力したポーズ JSON から AnimationClip を作ることが�
 - 「表情」ボタンを押すことで、[表情編集画面](#3-b-表情編集画面)を開きます
 <br/><br/>
 - 「ポーズ」ボタンを押すことで、[ポーズ編集画面](#3-c-ポーズ編集画面)を開きます
+<br/><br/>
+- 「処理」ボタンを押すことで、[画像処理画面](#3-d-画像処理画面)を開きます
 <br/><br/>
 - 「保存」ボタンを押すことで、画像を保存します
     - ポーズ JSON 出力を有効にしている場合、ポーズ JSON を保存します 
